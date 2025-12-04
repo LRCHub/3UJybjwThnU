@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Beautiful ground",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T16:15:22.093014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jed's Other Poem (Beautiful Ground)",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/01_Jed's_Other_Poem_(Beautiful_Ground)_Grandaddy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jed's Other Poem (Beautiful Ground) [Piano Version]",
+      "artist": "Grandaddy",
+      "has_synced": false,
+      "path": "select/02_Jed's_Other_Poem_(Beautiful_Ground)_[Piano_Version]_Grandaddy.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jed’s Other Poem (Beautiful Ground) (piano version)",
+      "artist": "Grandaddy",
+      "has_synced": false,
+      "path": "select/03_Jed’s_Other_Poem_(Beautiful_Ground)_(piano_version)_Grandaddy.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Beautiful ground",
+      "artist": "NANO",
+      "has_synced": true,
+      "path": "select/04_Beautiful_ground_NANO.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beautiful ground",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/05_Beautiful_ground_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beautiful Ground (Original Cassette Tape Demo)",
+      "artist": "Grandaddy",
+      "has_synced": false,
+      "path": "select/06_Beautiful_Ground_(Original_Cassette_Tape_Demo)_Grandaddy.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beautiful Ground (original cassette demo)",
+      "artist": "Grandaddy",
+      "has_synced": false,
+      "path": "select/07_Beautiful_Ground_(original_cassette_demo)_Grandaddy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jed´s other poem (beautiful ground)",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/08_Jed_́s_other_poem_(beautiful_ground)_Grandaddy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beautiful Ground",
+      "artist": "Grandaddy",
+      "has_synced": false,
+      "path": "select/09_Beautiful_Ground_Grandaddy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jed's Other Poem (Beautiful Ground)",
+      "artist": "Grandaddy",
+      "has_synced": true,
+      "path": "select/10_Jed's_Other_Poem_(Beautiful_Ground)_Grandaddy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Beautiful ground",
+      "artist": "Nano",
+      "has_synced": true,
+      "path": "select/11_Beautiful_ground_Nano.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beautiful ground",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/12_Beautiful_ground_ナノ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Beautiful ground",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_Beautiful_ground_ナノ.txt"
+    }
+  ]
+}
